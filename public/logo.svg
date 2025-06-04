@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   style="background: transparent; background-color: transparent;"
+   version="1.1"
+   width="312px"
+   height="312px"
+   viewBox="-0.5 -0.5 312 312"
+   id="svg69"
+   sodipodi:docname="si-bee.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview71"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="2.5064103"
+     inkscape:cx="156.19949"
+     inkscape:cy="81.98977"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg69" />
+  <defs
+     id="defs7">
+    <linearGradient
+       x1="-0.786194"
+       y1="-0.16040368"
+       x2="-0.786194"
+       y2="312.62678"
+       id="drawio-svg-ON8iuoZbqePVQV_9zb1n-gradient-light-dark_ffcd28_6a3f00_-1-light-dark_ffa500_a05300_-1-s-0"
+       gradientTransform="scale(1.002523,0.99748332)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#ffcd28"
+         style="stop-color: light-dark(rgb(255, 205, 40), rgb(106, 63, 0)); stop-opacity: 1;"
+         stop-opacity="1"
+         id="stop2" />
+      <stop
+         offset="100%"
+         stop-color="#ffa500"
+         style="stop-color: light-dark(rgb(255, 165, 0), rgb(160, 83, 0)); stop-opacity: 1;"
+         stop-opacity="1"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g67"
+     transform="matrix(0.1804764,0,0,0.1804764,139.52661,66.053113)">
+    <g
+       data-cell-id="0"
+       id="g65">
+      <g
+         data-cell-id="1"
+         id="g63">
+        <g
+           data-cell-id="Owtry8QNpu_eGOtdtQ6w-14"
+           id="g13">
+          <g
+             id="g11">
+            <path
+               d="m 85.37,5.84 h 141.26 l 79.37,150 -79.37,150 H 85.37 L 6,155.84 Z"
+               fill="url(#drawio-svg-ON8iuoZbqePVQV_9zb1n-gradient-light-dark_ffcd28_6a3f00_-1-light-dark_ffa500_a05300_-1-s-0)"
+               style="fill:url(#drawio-svg-ON8iuoZbqePVQV_9zb1n-gradient-light-dark_ffcd28_6a3f00_-1-light-dark_ffa500_a05300_-1-s-0)"
+               stroke="#000000"
+               stroke-width="12"
+               stroke-miterlimit="10"
+               transform="rotate(-90,156,155.84)"
+               pointer-events="all"
+               id="path9" />
+          </g>
+        </g>
+        <g
+           data-cell-id="Owtry8QNpu_eGOtdtQ6w-1"
+           id="g19">
+          <g
+             id="g17">
+            <path
+               d="m 56,92 h 40 l 30,30 v 40 L 96,192 H 56 L 26,162 v -40 z"
+               fill="#bce2e9"
+               stroke="#6c8ebf"
+               stroke-width="12"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path15" />
+          </g>
+        </g>
+        <g
+           data-cell-id="Owtry8QNpu_eGOtdtQ6w-2"
+           id="g25">
+          <g
+             id="g23">
+            <path
+               d="m 216,92 h 40 l 30,30 v 40 l -30,30 h -40 l -30,-30 v -40 z"
+               fill="#bce2e9"
+               stroke="#6c8ebf"
+               stroke-width="12"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path21" />
+          </g>
+        </g>
+        <g
+           data-cell-id="Owtry8QNpu_eGOtdtQ6w-3"
+           id="g31">
+          <g
+             id="g29">
+            <path
+               d="m 140,36 h 31 l 24,24 v 32 l -24,24 H 140 L 116,92 V 60 Z"
+               fill="#684828"
+               stroke="#454545"
+               stroke-width="12"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path27" />
+          </g>
+        </g>
+        <g
+           data-cell-id="Owtry8QNpu_eGOtdtQ6w-4"
+           id="g37">
+          <g
+             id="g35">
+            <path
+               d="m 136,122 h 40 l 30,30 v 40 l -30,30 h -40 l -30,-30 v -40 z"
+               fill="#eabe09"
+               stroke="#3d3846"
+               stroke-width="12"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path33" />
+          </g>
+        </g>
+        <g
+           data-cell-id="Owtry8QNpu_eGOtdtQ6w-5"
+           id="g43">
+          <g
+             id="g41">
+            <path
+               d="m 136,152 h 40 l 30,30 v 40 l -30,30 h -40 l -30,-30 v -40 z"
+               fill="#e5a50a"
+               stroke="#454545"
+               stroke-width="12"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path39" />
+          </g>
+        </g>
+        <g
+           data-cell-id="Owtry8QNpu_eGOtdtQ6w-6"
+           id="g49">
+          <g
+             id="g47">
+            <path
+               d="m 136,182 h 40 l 30,30 v 40 l -30,30 h -40 l -30,-30 v -40 z"
+               fill="#f5c211"
+               stroke="#454545"
+               stroke-width="12"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path45" />
+          </g>
+        </g>
+        <g
+           data-cell-id="Owtry8QNpu_eGOtdtQ6w-8"
+           id="g55">
+          <g
+             id="g53">
+            <path
+               d="m 140,207 h 32 l 24,24 v 27 l -24,24 h -32 l -24,-24 v -27 z"
+               fill="#f8e45c"
+               stroke="#23445d"
+               stroke-width="12"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path51" />
+          </g>
+        </g>
+        <g
+           data-cell-id="Owtry8QNpu_eGOtdtQ6w-16"
+           id="g61">
+          <g
+             id="g59">
+            <path
+               d="m 147,227 h 18 l 24,24 v 7 l -24,24 h -18 l -24,-24 v -7 z"
+               fill="#666666"
+               stroke="#23445d"
+               stroke-width="12"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path57" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="31.153212"
+     y="109.08308"
+     id="text2564"><tspan
+       sodipodi:role="line"
+       id="tspan2562"
+       x="31.153212"
+       y="109.08308"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact">LINKED</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#d4aa00;fill-opacity:1;stroke:none"
+     x="196.03195"
+     y="109.31438"
+     id="text2564-5"><tspan
+       sodipodi:role="line"
+       id="tspan2562-9"
+       x="196.03195"
+       y="109.31438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact;fill:#d4aa00">BEES</tspan></text>
+</svg>
