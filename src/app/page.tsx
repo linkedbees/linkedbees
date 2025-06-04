@@ -1,4 +1,5 @@
-import Image from "next/image";
+import { Main } from "next/document";
+import MainMenu from "./components/MainMenu";
 
 export default function Home() {
   return (
