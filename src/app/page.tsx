@@ -4,7 +4,7 @@ export default function Home() {
       {/* <h1 className="text-4xl font-bold">Welcome to Linked Bees!</h1> */}
       <div className="w-screen h-screen" style={{ backgroundImage: "url('linkedbees.png')", backgroundPosition: "center", backgroundSize: "cover" }}>
         <div className="flex items-center justify-center h-full bg-black bg-opacity-75">
-          <h1 className="text-white text-9xl font-bold uppercase">We are bees</h1>
+          <h1 className="text-white text-9xl font-bold uppercase">Stay Tuned!</h1>
         </div>
       </div>
       <div className="fixed top-0 px-[20px] w-full z-999 m">
@@ -20,7 +20,7 @@ export default function Home() {
             <div className="box-border p-0">
               <nav className="d-block box-border h-full">
                 <ul className="flex items-center justify-between gap-[40px] h-full list-none">
-                  <li className="box-border p-0 m-0 h-full list-none">
+                  {/* <li className="box-border p-0 m-0 h-full list-none">
                     <a href="" className="text-[20px] font-semibold text-black hover:text-blue-500 hover:underline transition-colors duration-300">Home</a>
                   </li>
                   <li className="box-border p-0 m-0 h-full list-none">
@@ -34,16 +34,11 @@ export default function Home() {
                   </li>
                   <li className="box-border p-0 m-0 h-full list-none">
                     <a href="" className="text-[20px] font-semibold text-black hover:text-blue-500 hover:underline transition-colors duration-300">Contact</a>
-                  </li>
+                  </li> */}
                 </ul>
               </nav>
             </div>
           </div>
-        </div>
-      </div>
-      <div className="w-screen h-screen" style={{ backgroundImage: "url('linkedbees.png')", backgroundPosition: "center", backgroundSize: "cover" }}>
-        <div className="flex items-center justify-center h-full bg-black bg-opacity-80">
-          <h1 className="text-white text-9xl font-bold uppercase">We are bees</h1>
         </div>
       </div>
     </main>
